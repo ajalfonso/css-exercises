@@ -1,0 +1,25 @@
+.cl1 {
+    background-color: #FFCCCB;
+    font-size: 20px;
+}
+
+.cl2 {
+    background-color: #FFCCCB;
+    font-size: 30px;
+}
+
+#this {
+    color: blue;
+    font-size: 40px;
+}
+
+#another {
+    background-color: #66FF99;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+* {
+    font-family: "Arial", serif;
+}
